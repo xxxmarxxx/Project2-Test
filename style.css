@@ -12,15 +12,10 @@ body{
 h3{
     margin-bottom: 40px;
 }
-a:link { color:#e4f5fc
-
-} /* unbesuchte Links */
-a:visited { color: #a5e0fc
-} /* besuchte Links*/
-a:hover { color: #e4f6fe}
- /* Benutzer fährt mit der Maus darüber */
-a:active { color: #c1dfff }
- /* aktive Links */
+a:link { color:#e4f5fc } /* unbesuchte Links */
+a:visited { color: #a5e0fc } /* besuchte Links*/
+a:hover { color: #e4f6fe } /* Benutzer fährt mit der Maus darüber */
+a:active { color: #c1dfff } /* aktive Links */
 
 header{
     display: flex;
@@ -83,7 +78,7 @@ p{
     padding-bottom: 40px;
 }
 .bb{
-    margin-top: 40px;
+    margin-top: 0px;
 }
 .cc{
     background-color: rgb(230, 230, 230);
