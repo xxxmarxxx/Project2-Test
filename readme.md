@@ -6,7 +6,7 @@ lorem jakis text
 
 zajrzyj [tutaj](http://mariuszbrainard.de)
 
-### podpodtytul jeszcze jestem mniejszy
+### podpodtytul jeszcze `jestem` mniejszy
 ```
 to jest z branch1
 ```
