@@ -13,7 +13,7 @@ body{
 h3{
     margin-bottom: 40px;
 }
-a:link { color:#c1ebff
+a:link { color:#e4f5fc
 
 } /* unbesuchte Links */
 a:visited { color: #a5e0fc
@@ -54,7 +54,7 @@ padding: 0;
 list-style: none;
 list-style-image: none;
 font-size: 15px;
-color: #c1ebff;
+color: #ffe2c1;
 }
 li{
     padding: 0 40px 0 0;
