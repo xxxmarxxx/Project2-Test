@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: rgba(0,0,0,0.7);
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+h3{
+    margin-bottom: 40px;
+}
+a:link { color:#c1ebff
+
+} /* unbesuchte Links */
+a:visited { color: #a5e0fc
+} /* besuchte Links*/
+a:hover { color: #e4f6fe}
+ /* Benutzer fährt mit der Maus darüber */
+a:active { color: #c1dfff }
+ /* aktive Links */
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 55px;
+    width: 100%;
+    border-bottom: solid 1px rgb(41, 122, 179);
+    background-color :#3BADFF;
+    margin-bottom: 68px;
+    margin-top: 40px;
+}
+.box{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(76, 0, 130, 0.118);
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+a{
+    text-decoration: none;
+}
+ul {
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 0;
+list-style: none;
+list-style-image: none;
+font-size: 15px;
+color: #c1ebff;
+}
+li{
+    padding: 0 40px 0 0;
+}
+.main_aa{
+    display: flex;
+    flex-direction: column;
+    xalign-items: center;
+    xtext-align: center;
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    xborder: solid 1px grey;
+    font-size: 18px;
+}
+.pre-text{
+    width: 100%;
+    margin-top: 20px;
+    xborder: solid 1px grey; 
+    background-color: rgba(0, 0, 0, 0.05);
+    font-size: 16px;
+}
+p{
+    padding-bottom: 40px;
+}
+.strong-gr{
+    padding-bottom: 40px;
+}
+.bb{
+    margin-top: 40px;
+}
+.cc{
+    background-color: rgb(230, 230, 230);
+}
