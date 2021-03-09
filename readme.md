@@ -1,13 +1,5 @@
-# Tytul jak H1
+# Title H1
 --------------
-lorem jakis text
+lorem text
 
-## podtytul 
-
-zajrzyj [tutaj](http://mariuszbrainard.de)
-
-### podpodtytul jeszcze `jestem` mniejszy
-```
-to jest z branch1
-```
-## drugi rzecz
+![image](./img.png)
